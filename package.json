@@ -1,0 +1,16 @@
+{
+  "name": "gallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "albums.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^1.0.0-rc.4",
+    "vue-router": "^4.0.0-beta.13",
+    "vuex": "^4.0.0-beta.4"
+  }
+}
